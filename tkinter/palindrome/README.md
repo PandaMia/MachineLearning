@@ -4,7 +4,9 @@
 This is my first experiments with tkinter.  
 
 A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward.  
-Enter any word or phrase in the text box and find out if it is a palindrome.
+Enter any word or phrase in the text box and find out if it is a palindrome.  
+
+In design used background and sprites from Scratch
 
 ## Files description
 PalindromeS.py - code  
